@@ -58,6 +58,11 @@
 - Bio: Technology enthusiastic!
 - GitHub: [Abhay Gawade](https://github.com/abhaygawade)
 
+#### Name: [Sameeksha](https://github.com/Sameeksha2323)
+-Place: Delhi, India
+-Bio: Coding Girlie
+-Github: [Sameeksha](https://github.com/Sameeksha2323)
+
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
